@@ -4,7 +4,7 @@
 
 # DataDisca Environment
 
-## Compulsory Knowledge for Any Data Scientist
+## Basic & Compulsory Knowledge for Any Data Scientist
 
 1. Python
    1. NumPy
