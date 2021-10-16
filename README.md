@@ -135,6 +135,9 @@ All of the following are freely available on YouTube
 ## Data Repositories
 [Access Here](./Data_Repositories.md)
 
+## Note
+This is only a catalogue. Copyrights of technologies and links are owned by their respective owners.
+
 
 
 
