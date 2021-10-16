@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/DataDisca/django_api1/master/DataDisca-Logo.svg_d400.png" width="75" height="25" />
 
-# DataDisca Environment and Resources
+# DataDisca Environment
 
 ## Compulsory Knowledge for Any Data Scientist
 
