@@ -1,5 +1,5 @@
 ## Note
-This is only a catalogue. Copyrights of technologies and links are owned by their respective owners.
+This is only a catalogue. Copyrights of technologies and contents are owned by their respective owners.
 
 <DT><H3 ADD_DATE="1622589169" LAST_MODIFIED="1634023316">Repos</H3>
             <DL><p>
