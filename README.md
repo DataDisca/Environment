@@ -117,7 +117,8 @@ All of the following are freely available on YouTube
 2. Tableau 
    * Tableau Full Course In 8 Hours
       [https://www.youtube.com/watch?v=Wh4sCCZjOwo](https://www.youtube.com/watch?v=Wh4sCCZjOwo)
-         
+3. English  
+   * [Some practical YouTube channels](./English.md)         
 
 ## Data Repositories
 [Access Here](./Data_Repositories.md)
