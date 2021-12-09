@@ -1,5 +1,5 @@
 ## Note
-This is only a catalogue. Copyrights of technologies and contents are owned by their respective owners.
+Copyrights of technologies and contents are held by their respective owners.
 
 ## Data   
 ### Image   
@@ -93,8 +93,7 @@ This is only a catalogue. Copyrights of technologies and contents are owned by t
    1. [Voice Conversion Challenge 2020](http://www.vc-challenge.org/)   
    1. [Speech Accent Archive](http://accent.gmu.edu/)   
    1. [Common Voice](https://commonvoice.mozilla.org/en/datasets)   
-   1. [English Multi-speaker Corpus for Voice Cloning | Kaggle](https://www.kaggle.com/mfekadu/english-multispeaker-corpus-for-voice-cloning)   
-   1. [Maths Worksheet for all grades - Year 3, 4, 5, 6, 7, 8, 9, 10, 11 & 12](https://www.ezymathtutoring.com.au/resources/worksheets/)   
+   1. [English Multi-speaker Corpus for Voice Cloning | Kaggle](https://www.kaggle.com/mfekadu/english-multispeaker-corpus-for-voice-cloning)      
 ### Voice Conversion   
    1. [andabi/deep-voice-conversion: Deep neural networks for voice conversion (voice style transfer) in Tensorflow](https://github.com/andabi/deep-voice-conversion)   
    1. [211854409.pdf](https://core.ac.uk/download/pdf/211854409.pdf)   
