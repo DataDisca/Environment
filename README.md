@@ -111,10 +111,10 @@ All of the following are freely available on YouTube
 
 
 ### Useful Links
-2. Python
+1. Python
    * Intermediate Python
      * [https://www.youtube.com/watch?v=HGOBQPFzWKo&t=8412s](https://www.youtube.com/watch?v=HGOBQPFzWKo&t=8412s)
-3. Tableau 
+2. Tableau 
    * Tableau Full Course In 8 Hours
       [https://www.youtube.com/watch?v=Wh4sCCZjOwo](https://www.youtube.com/watch?v=Wh4sCCZjOwo)
          
