@@ -1,5 +1,5 @@
 ## Note
-Copyrights of technologies and contents are held by their respective owners.
+Copyrights of technologies and contents are held by their respective owners. 
 
 ## Data   
 ### Image   
